@@ -20,7 +20,7 @@ https://api.telegram.org/bot这里填你的Token/sendMessage?chat_id=这里填�
 ```bash
 $ whoami
 root
-$ git clone https://github.com/anshengme/HostLoc.git #手动下载到目录也可以
+$ git clone https://github.com/youheiss/HostLoc.git #手动下载到目录也可以
 $ cd HostLoc/
 $ vi docker-compose.yml
 ......
