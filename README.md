@@ -10,7 +10,7 @@ HostLoc论坛《美国VPS综合讨论》版块新帖TG机器人提醒
 # token获取
 1.TG@BotFather
 ![Image text](https://233404.xyz/images/2020/06/22/QsQWxA2ceg/Snipaste_2020-06-22_07-58-10.png)
-2.可以尝试一下是否发信息
+2.可以尝试一下是否可以信息
 ```bash
 https://api.telegram.org/bot这里填你的Token/sendMessage?chat_id=这里填频道id注意要加@&text=测试测试
 ```
