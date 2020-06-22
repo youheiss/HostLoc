@@ -16,6 +16,10 @@ https://api.telegram.org/bot这里填你的Token/sendMessage?chat_id=这里填�
 ```
 ![Image text](https://233404.xyz/images/2020/06/22/OXmj4dxYHA/Snipaste_2020-06-22_08-17-30.png)
 
+rebgm.sh文件说明：
+由于hostloc有时开启防御模式，导致部分国外ip无法访问hostloc，getupdate错误导致掉线，后台运行一个自动重新连接脚本
+使用方法：linux添加定时任务，rebgm.sh存放在root目录下，然后启动定时任务，注意，rebgm脚本里的cd /root/HostLoc需要修改为你的脚本的路径
+$ */30 * * * * /root/rebgm.sh
 
 ```bash
 $ whoami
